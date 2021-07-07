@@ -1,6 +1,5 @@
 ### Hi, I'm Christos👋👨‍💻
+#### I am currently a Computer Science Undergraduate at https://www.di.uoa.gr/.
+First and foremost I love writing code. Ever since writing my first program in C and manipulating it to produce a desired output, i have been obsessed with the idea of using software to solve various problems. Software engineering is a never ending puzzle that i am passionately engaged in solving.evolution and high ambition to grow and excel in the software industry.
 
-I'm currently a Computer Science Undergraduate at https://www.di.uoa.gr/.
-<i class="ri-twitter-fill"></i>
-<i class="ri-linkedin-box-fill">https://www.linkedin.com/in/christos-galanopoulos/</i>
-<i class="ri-mail-fill"></i> 
+Skills: c++
