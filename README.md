@@ -1,2 +1,3 @@
+### Hi, I'm Christos👋👨‍💻
 
-I'm Chris from Greece, and i am currently a Computer Science Undergraduate at https://www.di.uoa.gr/.
+I'm currently a Computer Science Undergraduate at https://www.di.uoa.gr/.
