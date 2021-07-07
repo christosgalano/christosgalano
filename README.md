@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christosgalano)](https://github.com/anuraghazra/github-readme-stats)
+
+I'm Chris from Greece, and i am currently a Computer Science Undergraduate at https://www.di.uoa.gr/.
