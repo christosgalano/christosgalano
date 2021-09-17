@@ -11,5 +11,4 @@ First and foremost I love writing code. Ever since writing my first program in C
 * SQL
 * Bash 
 
-
-<a href="https://twitter.com/_galanopoulos"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/christos-galanopoulos//"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> 
+<a href="https://www.linkedin.com/in/christos-galanopoulos//"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> 
