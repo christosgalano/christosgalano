@@ -19,5 +19,5 @@ I am 21 years old and currently work as a Cloud DevOps Engineer at [Performance 
 
 </p> -->
 
-![Azure](icons/black/azure.png)
-![GitHub](icons/black/github.png)
+<img src="icons/black/azure.png" alt="Azure" title="Azure" width="40" height="40"/>
+<img src="icons/black/github.png" alt="GitHub" title="GitHub" width="40" height="40"/>
