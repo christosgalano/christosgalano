@@ -1,6 +1,6 @@
 # Hello, I'm Christos👋👨‍💻
 
-### I am 21 years old and currently work as a Cloud DevOps Engineer at [Performance Technologies](https://www.performance.gr/). I am also a student at [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) ~ NKUA.
+**I am 21 years old and currently work as a Cloud DevOps Engineer at [Performance Technologies](https://www.performance.gr/). I am also a student at [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) ~ NKUA.**
 
 ## Skills
 
