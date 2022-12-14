@@ -11,7 +11,7 @@
 <img src="icons/black/terraform.png" alt="Terraform" title="Terraform" width="40" height="40"/>
 <img src="icons/black/azure_devops.png" alt="Azure DevOps" title="Azure DevOps" width="40" height="40"/>
 <img src="icons/black/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
-<img src="icons/black/docker.png" alt="Docker" title="Docker" width="40" height="40"/>
+<img src="icons/black/docker.png" alt="Docker" title="Docker" width="50" height="50"/>
 <img src="icons/black/python.png" alt="Python" title="Python" width="40" height="40"/>
 <img src="icons/black/cpp.png" alt="C++" title="C++" width="40" height="40"/>
 <img src="icons/black/c.png" alt="C" title="C" width="40" height="40"/>
