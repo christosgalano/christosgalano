@@ -20,5 +20,6 @@
 </p>
 
 ## Content
+
 * **Blog:** <https://cloud-on-rails.com/>
 * **LinkedIn:** <https://www.linkedin.com/in/christos-galanopoulos/>
