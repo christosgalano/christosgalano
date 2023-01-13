@@ -18,3 +18,5 @@
 <img src="icons/black/c.png" alt="C" title="C" width="40" height="40"/>
 
 </p>
+
+**Blog:** <https://cloud-on-rails.com/>
