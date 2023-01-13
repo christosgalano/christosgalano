@@ -19,4 +19,5 @@
 
 </p>
 
+
 **Blog:** <https://cloud-on-rails.com/>
