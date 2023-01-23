@@ -21,5 +21,5 @@
 
 ## Content
 
-* **Blog:** <https://cloud-on-rails.com/>
+* **Blog:** <https://christosgalano.github.io/>
 * **LinkedIn:** <https://www.linkedin.com/in/christos-galanopoulos/>
