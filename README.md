@@ -21,5 +21,6 @@
 
 ## Content
 
-* **Blog:** <https://christosgalano.github.io/>
-* **LinkedIn:** <https://www.linkedin.com/in/christos-galanopoulos/>
+- **Blog:** <https://christosgalano.github.io/>
+- **LinkedIn:** <https://www.linkedin.com/in/christos-galanopoulos/>
+- **Credly:** <https://www.credly.com/users/christos-galanopoulos>
