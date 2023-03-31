@@ -22,6 +22,6 @@
 ## Content
 
 - **Blog:** <https://christosgalano.github.io/>
-- **Polywork:** <https://poly.me/christosgalano>
+- **dev.to:** <https://dev.to/christosgalano>
 - **Credly:** <https://www.credly.com/users/christos-galanopoulos>
 - **LinkedIn:** <https://www.linkedin.com/in/christos-galanopoulos/>
