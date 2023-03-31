@@ -1,6 +1,10 @@
 # Hello, I'm Christos👋👨‍💻
 
-**I am 21 years old and currently work as a DevOps Engineer at [Performance Technologies](https://www.performance.gr/). I am also a student at [Department of Informatics and Telecommunications](https://www.di.uoa.gr/).**
+**I am 21 years old and currently work as a DevOps Engineer at [Performance Technologies](https://www.performance.gr/) while also being a student at [Department of Informatics and Telecommunications](https://www.di.uoa.gr/).**
+
+**I have hands-on experience architecting, automating, and optimizing mission-critical deployments across complex infrastructures, as well as knowledge of CI/CD pipelines, "as code" tools, cloud operations, container orchestration, and scripting.**
+
+**My goal involves utilizing my curiosity to continuously improve and excel in the IT industry.**
 
 ## Skills
 
