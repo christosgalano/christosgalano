@@ -21,7 +21,7 @@
 
 ## Content
 
-- **Blog:** <https://christosgalano.github.io/>
+- **blog:** <https://christosgalano.github.io/>
 - **dev.to:** <https://dev.to/christosgalano>
-- **Credly:** <https://www.credly.com/users/christos-galanopoulos>
-- **LinkedIn:** <https://www.linkedin.com/in/christos-galanopoulos/>
+- **credly:** <https://www.credly.com/users/christos-galanopoulos>
+- **linkedin:** <https://www.linkedin.com/in/christos-galanopoulos/>
