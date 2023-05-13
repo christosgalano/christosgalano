@@ -4,8 +4,6 @@
 
 **I have hands-on experience architecting, automating, and optimizing mission-critical deployments across complex infrastructures, as well as knowledge of CI/CD pipelines, "as code" tools, cloud operations, container orchestration, and scripting.**
 
-**My goal is to strive for continuous improvement.**
-
 ## Skills
 
 <p align="left">
