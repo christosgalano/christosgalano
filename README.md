@@ -1,6 +1,6 @@
 ## Christos - DevOps Engineer
 
-Hey there! 👋 I'm Christos, a passionate 21-year-old DevOps engineer with a drive for continuous improvement. At Performance Technologies, I thrive on exploring and mastering cutting-edge tools and technologies that empower software development and cloud computing.
+Hey there! 👋 I'm Christos, a passionate 21-year-old DevOps engineer. With a deep passion for technology and a constant drive for improvement, I'm dedicated to exploring and mastering various tools and technologies that empower software development and cloud computing.
 
 ### Skills & Expertise
 
@@ -8,7 +8,7 @@ Hey there! 👋 I'm Christos, a passionate 21-year-old DevOps engineer with a dr
 - 🚀 Proficient in CI/CD pipelines, "as code" tools, cloud operations, container orchestration, and scripting.
 - 🌐 Skilled in deploying and managing applications on various cloud platforms.
 - 🔧 Dedicated to streamlining deployment workflows, ensuring reliable and scalable systems, and optimizing infrastructure for enhanced performance.
-- 📚 Constantly learning and exploring new technologies to enhance software development processes.
+- 📚 Constantly learning and exploring new technologies.
 
 <p align="center">
   <img src="icons/black/azure.png" alt="Azure" title="Azure" width="40" height="40"/>
@@ -23,13 +23,10 @@ Hey there! 👋 I'm Christos, a passionate 21-year-old DevOps engineer with a dr
 </p>
 
 <p align="center">
-  <a href="https://github.com/christosgalano">
-    <img src="https://img.shields.io/github/followers/christosgalano?label=Follow&style=social" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/christos-galanopoulos">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?label=Follow&style=social" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://christosgalano.github.io/">
-    <img src="https://img.shields.io/badge/Blog-Visit-black?style=plastic&logo=rss" alt="Blog" title="Blog">
+    <img src="https://img.shields.io/badge/Blog-Visit-red?style=for-the-badge&logo=rss" alt="Blog" title="Blog">
   </a>
 </p>
