@@ -22,17 +22,14 @@ Hey there! 👋 I'm Christos, a passionate 21-year-old DevOps engineer with a dr
   <img src="icons/black/c.png" alt="C" title="C" width="40" height="40"/>
 </p>
 
-### Content
-
-- **Blog:** [christosgalano.github.io](https://christosgalano.github.io/)
-- **Dev.to:** [dev.to/christosgalano](https://dev.to/christosgalano)
-- **Credly:** [credly.com/users/christos-galanopoulos](https://www.credly.com/users/christos-galanopoulos)
-- **LinkedIn:** [linkedin.com/in/christos-galanopoulos](https://www.linkedin.com/in/christos-galanopoulos/)
-
-### Let's Connect!
-I'm passionate about collaborating and sharing knowledge with fellow tech enthusiasts. Feel free to connect with me on GitHub or reach out via email. Let's discuss innovative ways to drive software development and cloud operations forward!
-
-[![GitHub](https://img.shields.io/github/followers/christosgalano?label=Follow&style=social)](https://github.com/christosgalano)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/christos-galanopoulos/)
-
-Looking forward to connecting with you! 😊
+<p align="center">
+  <a href="https://github.com/christosgalano">
+    <img src="https://img.shields.io/github/followers/christosgalano?label=Follow&style=social" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/christos-galanopoulos">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue" alt="LinkedIn">
+  </a>
+  <a href="https://christosgalano.github.io/">
+    <img src="https://img.shields.io/badge/Blog-Visit-black?style=for-the-badge&logo=rss" alt="Blog" title="Blog">
+  </a>
+</p>
