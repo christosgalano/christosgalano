@@ -27,7 +27,7 @@ Hey there! 👋 I'm Christos, a passionate 21-year-old DevOps engineer with a dr
     <img src="https://img.shields.io/github/followers/christosgalano?label=Follow&style=social" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/christos-galanopoulos">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=social" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?label=Follow&style=social" alt="LinkedIn">
   </a>
   <a href="https://christosgalano.github.io/">
     <img src="https://img.shields.io/badge/Blog-Visit-black?style=plastic&logo=rss" alt="Blog" title="Blog">
