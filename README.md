@@ -1,28 +1,40 @@
-# Hello, I'm Christos👋👨‍💻
+## Christos - DevOps Engineer
 
-**I am 21 years old and currently work as a DevOps Engineer at [Performance Technologies](https://www.performance.gr/)**.
+Hey there! 👋 I'm Christos, a passionate 21-year-old DevOps engineer with a drive for continuous improvement. At Performance Technologies, I thrive on exploring and mastering cutting-edge tools and technologies that empower software development and cloud computing.
 
-**I have hands-on experience architecting, automating, and optimizing mission-critical deployments across complex infrastructures, as well as knowledge of CI/CD pipelines, "as code" tools, cloud operations, container orchestration, and scripting.**
+### Background & Expertise
 
-## Skills
+- 💼 Experienced in architecting, automating, and optimizing mission-critical deployments across complex infrastructures.
+- 🚀 Proficient in CI/CD pipelines, "as code" tools, cloud operations, container orchestration, and scripting.
+- 🌐 Skilled in deploying and managing applications on various cloud platforms.
+- 🔧 Dedicated to streamlining deployment workflows, ensuring reliable and scalable systems, and optimizing infrastructure for enhanced performance.
+- 📚 Constantly learning and exploring new technologies to enhance software development processes.
 
-<p align="left">
+### Skills
 
-<img src="icons/black/azure.png" alt="Azure" title="Azure" width="40" height="40"/>
-<img src="icons/black/github.png" alt="GitHub" title="GitHub" width="40" height="40"/>
-<img src="icons/black/terraform.png" alt="Terraform" title="Terraform" width="40" height="40"/>
-<img src="icons/black/bicep.png" alt="Bicep" title="Bicep" width="40" height="40"/>
-<img src="icons/black/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
-<img src="icons/black/python.png" alt="Python" title="Python" width="40" height="40"/>
-<img src="icons/black/linux.png" alt="Linux" title="Linux" width="40" height="40"/>
-<img src="icons/black/cpp.png" alt="C++" title="C++" width="40" height="40"/>
-<img src="icons/black/c.png" alt="C" title="C" width="40" height="40"/>
- 
+<p align="center">
+  <img src="icons/black/azure.png" alt="Azure" title="Azure" width="40" height="40"/>
+  <img src="icons/black/github.png" alt="GitHub" title="GitHub" width="40" height="40"/>
+  <img src="icons/black/terraform.png" alt="Terraform" title="Terraform" width="40" height="40"/>
+  <img src="icons/black/bicep.png" alt="Bicep" title="Bicep" width="40" height="40"/>
+  <img src="icons/black/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
+  <img src="icons/black/python.png" alt="Python" title="Python" width="40" height="40"/>
+  <img src="icons/black/linux.png" alt="Linux" title="Linux" width="40" height="40"/>
+  <img src="icons/black/cpp.png" alt="C++" title="C++" width="40" height="40"/>
+  <img src="icons/black/c.png" alt="C" title="C" width="40" height="40"/>
 </p>
 
-## Content
+### Content
 
-- **blog:** <https://christosgalano.github.io/>
-- **dev.to:** <https://dev.to/christosgalano>
-- **credly:** <https://www.credly.com/users/christos-galanopoulos>
-- **linkedin:** <https://www.linkedin.com/in/christos-galanopoulos/>
+- **Blog:** [christosgalano.github.io](https://christosgalano.github.io/)
+- **Dev.to:** [dev.to/christosgalano](https://dev.to/christosgalano)
+- **Credly:** [credly.com/users/christos-galanopoulos](https://www.credly.com/users/christos-galanopoulos)
+- **LinkedIn:** [linkedin.com/in/christos-galanopoulos](https://www.linkedin.com/in/christos-galanopoulos/)
+
+### Let's Connect!
+I'm passionate about collaborating and sharing knowledge with fellow tech enthusiasts. Feel free to connect with me on GitHub or reach out via email. Let's discuss innovative ways to drive software development and cloud operations forward!
+
+[![GitHub](https://img.shields.io/github/followers/christosgalano?label=Follow&style=social)](https://github.com/christosgalano)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/christos-galanopoulos/)
+
+Looking forward to connecting with you! 😊
