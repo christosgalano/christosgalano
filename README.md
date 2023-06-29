@@ -16,7 +16,7 @@ Hey there! 👋 I'm Christos, a dedicated DevOps engineer with a strong interest
   <img src="icons/black/terraform.png" alt="Terraform" title="Terraform" width="40" height="40"/>
   <img src="icons/black/bicep.png" alt="Bicep" title="Bicep" width="40" height="40"/>
   <img src="icons/black/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
-  <img src="icons/black/go.png" alt="Go" title="Go" width="40" height="40"/>
+  <img src="icons/black/golang.png" alt="Go" title="Go" width="40" height="40"/>
   <img src="icons/black/python.png" alt="Python" title="Python" width="40" height="40"/>
   <img src="icons/black/cpp.png" alt="C++" title="C++" width="40" height="40"/>
   <img src="icons/black/c.png" alt="C" title="C" width="40" height="40"/>
