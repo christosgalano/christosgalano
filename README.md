@@ -1,6 +1,6 @@
 ## Christos - DevOps Engineer
 
-Hey there! 👋 I'm Christos, a dedicated devops engineer with a strong interest in technology. I constantly strive for improvement, exploring and mastering a wide range of tools and technologies that empower software development and cloud computing. Furthermore, I enjoy sharing my information in order to increase public awareness of many topics. I strongly believe in the power of information dissemination and the promotion of a culture of continual learning.
+Hey there! 👋 I'm Christos, a dedicated devops engineer with a strong interest in technology. I constantly strive for improvement, exploring and mastering various tools and technologies that empower software development and cloud computing. Furthermore, I enjoy sharing information to increase public awareness of many topics. I strongly believe in the power of information dissemination and promoting a culture of continual learning.
 
 ### Skills & Expertise
 
