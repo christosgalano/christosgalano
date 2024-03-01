@@ -60,7 +60,7 @@ Hey there! 👋 I'm Christos, a dedicated DevOps engineer and Microsoft MVP with
 <p align="center">
   <a href="https://www.linkedin.com/in/christos-galanopoulos/"><img src="https://img.shields.io/badge/LinkedIn-lightblue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://christosgalano.github.io/"><img src="https://img.shields.io/badge/Blog-black?style=flat&logo=rss" alt="Blog" title="Blog"></a>
-  <a href="https://mvp.microsoft.com/en-US/MVP/profile/e89e993e-d468-4560-b7f9-d409d2750684"><img src="https://img.shields.io/badge/MVP-blue?style=flat&logo=microsoft" alt="MVP" title="MVP"></a>
+  <a href="https://mvp.microsoft.com/en-US/MVP/profile/e89e993e-d468-4560-b7f9-d409d2750684"><img src="https://img.shields.io/badge/MVP-3ab393?style=flat&logo=microsoft" alt="MVP" title="MVP"></a>
 </p>
 
 <picture>
