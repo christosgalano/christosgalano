@@ -1,6 +1,6 @@
 ## Christos Galanopoulos - DevOps Engineer
 
-Hey there! 👋 I'm Christos, a dedicated DevOps engineer with a strong interest in technology. I constantly strive for improvement, exploring and mastering various tools and technologies that empower software development and cloud computing. Furthermore, I enjoy sharing information to increase public awareness of many topics. I strongly believe in the power of information dissemination and promoting a culture of continual learning.
+Hey there! 👋 I'm Christos, a dedicated DevOps engineer and Microsoft MVP with a strong interest in technology. I constantly strive for improvement, exploring and mastering various tools and technologies that empower software development and cloud computing. Furthermore, I enjoy sharing information to increase public awareness of many topics. I strongly believe in the power of information dissemination and promoting a culture of continual learning.
 
 ### Skills & Expertise
 
@@ -63,6 +63,9 @@ Hey there! 👋 I'm Christos, a dedicated DevOps engineer with a strong interest
   </a>
   <a href="https://christosgalano.github.io/">
     <img src="https://img.shields.io/badge/Blog-Visit-brightgreen?style=flat&logo=rss" alt="Blog" title="Blog">
+  </a>
+  <a href="https://mvp.microsoft.com/en-US/MVP/profile/e89e993e-d468-4560-b7f9-d409d2750684">
+    <img src="https://img.shields.io/badge/Microsoft-MVP-gray?style=flat&logo=microsoft" alt="MVP" title="MVP">
   </a>
 </p>
 
