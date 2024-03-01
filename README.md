@@ -58,15 +58,9 @@ Hey there! 👋 I'm Christos, a dedicated DevOps engineer and Microsoft MVP with
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christos-galanopoulos/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://christosgalano.github.io/">
-    <img src="https://img.shields.io/badge/Blog-Visit-brightgreen?style=flat&logo=rss" alt="Blog" title="Blog">
-  </a>
-  <a href="https://mvp.microsoft.com/en-US/MVP/profile/e89e993e-d468-4560-b7f9-d409d2750684">
-    <img src="https://img.shields.io/badge/Microsoft-MVP-gray?style=flat&logo=microsoft" alt="MVP" title="MVP">
-  </a>
+  <a href="https://www.linkedin.com/in/christos-galanopoulos/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://christosgalano.github.io/"><img src="https://img.shields.io/badge/Blog-Visit-brightgreen?style=flat&logo=rss" alt="Blog" title="Blog"></a>
+  <a href="https://mvp.microsoft.com/en-US/MVP/profile/e89e993e-d468-4560-b7f9-d409d2750684"><img src="https://img.shields.io/badge/Microsoft-MVP-black?style=flat&logo=microsoft" alt="MVP" title="MVP"></a>
 </p>
 
 <picture>
