@@ -33,7 +33,7 @@ Hey there! 👋 I'm Christos, a dedicated DevOps engineer and Microsoft MVP with
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="icons/black/bicep.webp">
-    <img src="icons/white/bicep.webp" alt="Bicep" title="Bicep" width="40" height="45"/>
+    <img src="icons/white/bicep.webp" alt="Bicep" title="Bicep" width="40" height="40"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="icons/black/go.webp">
