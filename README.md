@@ -20,40 +20,40 @@ Hey there! 👋 I'm Christos, a dedicated DevOps engineer and Microsoft MVP with
     <img src="icons/white/github.webp" alt="GitHub" title="GitHub" width="40" height="40"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="icons/black/kubernetes.webp">
-    <img src="icons/white/kubernetes.webp" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
+    <source media="(prefers-color-scheme: light)" srcset="icons/black/azure-devops.webp">
+    <img src="icons/white/azure-devops.webp" alt="Azure DevOps" title="Azure DevOps" width="40" height="40"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="icons/black/bicep.webp">
-    <img src="icons/white/bicep.webp" alt="Bicep" title="Bicep" width="40" height="40"/>
+    <source media="(prefers-color-scheme: light)" srcset="icons/black/kubernetes.webp">
+    <img src="icons/white/kubernetes.webp" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="icons/black/terraform.webp">
     <img src="icons/white/terraform.webp" alt="Terraform" title="Terraform" width="40" height="40"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="icons/black/go.webp">
-    <img src="icons/white/go.webp" alt="Go" title="Go" width="40" height="40"/>
+    <source media="(prefers-color-scheme: light)" srcset="icons/black/bicep.webp">
+    <img src="icons/white/bicep.webp" alt="Bicep" title="Bicep" width="40" height="40"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="icons/black/flux.webp">
-    <img src="icons/white/flux.webp" alt="Flux" title="Flux" width="40" height="40"/>
+    <source media="(prefers-color-scheme: light)" srcset="icons/black/go.webp">
+    <img src="icons/white/go.webp" alt="Go" title="Go" width="40" height="40"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="icons/black/python.webp">
     <img src="icons/white/python.webp" alt="Python" title="Python" width="40" height="40"/>
   </picture>
   <picture>
+  <picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="icons/black/ansible.webp">
+    <img src="icons/white/ansible.webp" alt="Ansible" title="Ansible" width="40" height="40"/>
+  </picture>
+    <source media="(prefers-color-scheme: light)" srcset="icons/black/flux.webp">
+    <img src="icons/white/flux.webp" alt="Flux" title="Flux" width="40" height="40"/>
+  </picture>
     <source media="(prefers-color-scheme: light)" srcset="icons/black/c.webp">
     <img src="icons/white/c.webp" alt="C" title="C" width="40" height="40"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="icons/black/cpp.webp">
-    <img src="icons/white/cpp.webp" alt="C++" title="C++" width="40" height="40"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="icons/black/linux.webp">
-    <img src="icons/white/linux.webp" alt="Linux" title="Linux" width="40" height="40"/>
   </picture>
 </p>
 
