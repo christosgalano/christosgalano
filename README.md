@@ -21,7 +21,7 @@ Hey there! 👋 I'm Christos, a dedicated DevOps engineer and Microsoft MVP with
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="icons/black/azure-devops.webp">
-    <img src="icons/white/azure-devops.png" alt="Azure DevOps" title="Azure DevOps" width="40" height="40"/>
+    <img src="icons/white/azure-devops.webp" alt="Azure DevOps" title="Azure DevOps" width="40" height="40"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="icons/black/kubernetes.webp">
@@ -47,9 +47,11 @@ Hey there! 👋 I'm Christos, a dedicated DevOps engineer and Microsoft MVP with
     <source media="(prefers-color-scheme: light)" srcset="icons/black/ansible.webp">
     <img src="icons/white/ansible.webp" alt="Ansible" title="Ansible" width="40" height="40"/>
   </picture>
+  <picture>
     <source media="(prefers-color-scheme: light)" srcset="icons/black/flux.webp">
     <img src="icons/white/flux.webp" alt="Flux" title="Flux" width="40" height="40"/>
   </picture>
+  <picture>
     <source media="(prefers-color-scheme: light)" srcset="icons/black/c.webp">
     <img src="icons/white/c.webp" alt="C" title="C" width="40" height="40"/>
   </picture>
