@@ -21,7 +21,7 @@ Hey there! 👋 I'm Christos, a dedicated DevOps engineer and Microsoft MVP with
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="icons/black/azure-devops.webp">
-    <img src="icons/white/azure-devops.webp" alt="Azure DevOps" title="Azure DevOps" width="40" height="40"/>
+    <img src="icons/white/azure-devops.png" alt="Azure DevOps" title="Azure DevOps" width="40" height="40"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="icons/black/kubernetes.webp">
