@@ -44,8 +44,6 @@ Hey there! 👋 I'm Christos, a dedicated DevOps engineer and Microsoft MVP with
     <img src="icons/white/python.webp" alt="Python" title="Python" width="40" height="40"/>
   </picture>
   <picture>
-  <picture>
-  <picture>
     <source media="(prefers-color-scheme: light)" srcset="icons/black/ansible.webp">
     <img src="icons/white/ansible.webp" alt="Ansible" title="Ansible" width="40" height="40"/>
   </picture>
