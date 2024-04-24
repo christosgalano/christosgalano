@@ -62,6 +62,8 @@ Hey there! 👋 I'm Christos, a dedicated DevOps engineer and Microsoft MVP with
   <a href="https://christosgalano.github.io/"><img src="https://img.shields.io/badge/Blog-24292f?style=flat&logo=storyblok&logoColor=white" alt="Blog" title="Blog"></a>
   <a href="https://mvp.microsoft.com/en-US/MVP/profile/e89e993e-d468-4560-b7f9-d409d2750684"><img src="https://img.shields.io/badge/Microsoft MVP-6264A7?style=flat&logo=microsoft" alt="MVP" title="MVP"></a>
   <a href="https://sessionize.com/christos-galanopoulos"><img src="https://img.shields.io/badge/Sessionize-1AB394?style=flat&logo=sessionize&logoColor=white" alt="Sessionize" title="Sessionize"></a>
+  <a href="https://medium.com/@christosgalanop"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" title="Medium"></a>
+  
 </p>
 
 <picture>
