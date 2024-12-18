@@ -8,7 +8,7 @@ Hey there! 👋 I'm Christos, a dedicated DevOps engineer, Microsoft MVP, and al
 - 🚀 Proficient in CI/CD pipelines, infrastructure automation, container orchestration, and scriptable deployments.
 - 🌐 Skilled in designing and managing secure, scalable, and cost-effective cloud solutions on platforms like Microsoft Azure.
 - 🔧 Committed to streamlining development and operations workflows, ensuring reliable systems, and optimizing for performance.
-- 📚 Continuously learning and exploring new technologies, methodologies, and best practices to stay ahead of the curve.
+- 📚 Continuously learning and exploring new technologies, methodologies, and practices to stay ahead of the curve.
 
 <p align="center">
   <picture>
