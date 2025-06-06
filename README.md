@@ -1,14 +1,6 @@
-## Christos Galanopoulos - DevOps Engineer
+## Christos Galanopoulos
 
-Hey there! 👋 I'm Christos, a dedicated DevOps engineer, Microsoft MVP, and all-around tech enthusiast. I'm passionate about designing elegant, scalable, and efficient solutions to complex problems. Whether it's architecting cloud infrastructure, automating workflows, or optimizing software development processes, I'm constantly exploring new ways to push the boundaries of what's possible with technology.
-
-### Areas of Expertise
-
-- 💻 Experienced in building and maintaining robust, high-performing cloud-native applications and services.
-- 🚀 Proficient in CI/CD pipelines, infrastructure automation, container orchestration, and scriptable deployments.
-- 🌐 Skilled in designing and managing secure, scalable, and cost-effective cloud solutions on platforms like Microsoft Azure.
-- 🔧 Committed to streamlining development and operations workflows, ensuring reliable systems, and optimizing for performance.
-- 📚 Continuously learning and exploring new technologies, methodologies, and practices to stay ahead of the curve.
+Hey there! 👋 I’m Christos, an engineer who cares about building systems that are scalable, understandable, and genuinely support the teams who rely on them. I’m into platform design, automation, optimization, and the space where architecture meets team dynamics. I believe good engineering is as much about thoughtful design and context as it is about code and execution.
 
 <p align="center">
   <picture>
