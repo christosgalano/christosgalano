@@ -1,6 +1,6 @@
 ## Christos Galanopoulos
 
-Hey there! I’m Christos, an engineer who cares about designing systems that are scalable, understandable, and genuinely support the teams who rely on them. I focus on platform engineering, automation, and improving how teams build and ship software—through better architecture, developer experience, and smart, intentional optimization. I believe good engineering is as much about context and design as it is about code and execution.
+Hey there! I’m Christos, an engineer who cares about designing systems that are scalable, understandable, and genuinely support the teams that rely on them. I focus on platform engineering, automation, and improving how teams build and ship software through better architecture, developer experience, and smart, intentional optimization. I believe good engineering is as much about context and design as it is about code and execution.
 
 <p align="center">
   <picture>
