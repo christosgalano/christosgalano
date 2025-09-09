@@ -51,10 +51,14 @@ Hey there! I’m Christos, an engineer who cares about designing systems that ar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christos-galanopoulos/"><img src="https://img.shields.io/badge/LinkedIn-1666c2?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://christosgalano.github.io/"><img src="https://img.shields.io/badge/Blog-24292f?style=flat&logo=storyblok&logoColor=white" alt="Blog" title="Blog"></a>
-  <a href="https://mvp.microsoft.com/en-US/MVP/profile/e89e993e-d468-4560-b7f9-d409d2750684"><img src="https://img.shields.io/badge/Microsoft MVP-6264A7?style=flat&logColor=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMyAzSDExVjExSDNWM1oiIGZpbGw9IiNmZmZmZmYiLz4KPHBhdGggZD0iTTMgMTNIMTFWMjFIM1YxM1oiIGZpbGw9IiNmZmZmZmYiLz4KPHBhdGggZD0iTTEzIDNIMjFWMTFIMTNWM1oiIGZpbGw9IiNmZmZmZmYiLz4KPHBhdGggZD0iTTEzIDEzSDIxVjIxSDEzVjEzWiIgZmlsbD0iI2ZmZmZmZiIvPgo8L3N2Zz4=" alt="MVP" title="MVP"></a>
-  <a href="https://sessionize.com/christos-galanopoulos"><img src="https://img.shields.io/badge/Sessionize-1AB394?style=flat&logo=sessionize&logoColor=white" alt="Sessionize" title="Sessionize"></a>
+  <a href="https://christosgalano.github.io/"><img src="https://img.shields.io/badge/Blog-fff1d0?style=flat" alt="Blog" title="Blog"></a>
+  <a href="https://medium.com/@christosgalanop"><img src="https://img.shields.io/badge/Medium-000000?style=flat" alt="Medium" title="Medium"></a>
+  <a href="https://sessionize.com/christos-galanopoulos"><img src="https://img.shields.io/badge/Sessionize-1AB394?style=flat" alt="Sessionize" title="Sessionize"></a>
+  <a href="https://mvp.microsoft.com/en-US/MVP/profile/e89e993e-d468-4560-b7f9-d409d2750684"><img src="https://img.shields.io/badge/Microsoft MVP-6264A7?style=flat" alt="MVP" title="MVP"></a>
+<!--   <a href="https://christosgalano.github.io/"><img src="https://img.shields.io/badge/Blog-24292f?style=flat&logo=storyblok&logoColor=white" alt="Blog" title="Blog"></a>
   <a href="https://medium.com/@christosgalanop"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" title="Medium"></a>
+  <a href="https://sessionize.com/christos-galanopoulos"><img src="https://img.shields.io/badge/Sessionize-1AB394?style=flat&logo=sessionize&logoColor=white" alt="Sessionize" title="Sessionize"></a>
+  <a href="https://mvp.microsoft.com/en-US/MVP/profile/e89e993e-d468-4560-b7f9-d409d2750684"><img src="https://img.shields.io/badge/Microsoft MVP-6264A7?style=flat&logColor=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMyAzSDExVjExSDNWM1oiIGZpbGw9IiNmZmZmZmYiLz4KPHBhdGggZD0iTTMgMTNIMTFWMjFIM1YxM1oiIGZpbGw9IiNmZmZmZmYiLz4KPHBhdGggZD0iTTEzIDNIMjFWMTFIMTNWM1oiIGZpbGw9IiNmZmZmZmYiLz4KPHBhdGggZD0iTTEzIDEzSDIxVjIxSDEzVjEzWiIgZmlsbD0iI2ZmZmZmZiIvPgo8L3N2Zz4=" alt="MVP" title="MVP"></a> -->
   
 </p>
 
